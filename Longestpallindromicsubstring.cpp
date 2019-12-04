@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 //Leetcode problem
-//Number of paindromic substring in a string
+//Length of paindromic substring in a string
 int main()
 {
     string s;
@@ -20,6 +20,7 @@ int main()
     {
         for (int i = 0; i < j; i++)
         {
+            cout<<i<<" "<<j<<endl;
             if (s[j] == s[i] && j - i <= 2)
             {
                 counter++;
@@ -50,7 +51,7 @@ int main()
         cout<<endl;
     }
     
-    return  maxlength;
+    cout<<maxlength;
 
     return 0;
 }

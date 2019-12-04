@@ -18,6 +18,7 @@ int main()
     {
         for (int i = 0; i < j; i++)
         {
+            cout<<i<<j<<endl;
             if (s[j] == s[i] && j - i <= 2)
             {
                 counter++;
