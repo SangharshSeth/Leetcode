@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 //Leetcode problem
-//Length of paindromic substring in a string
+//Length of longest paindromic substring in a string
 int main()
 {
     string s;
