@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Pointers_hell.dir/main.cpp.o  -o Pointers_hell.exe -Wl,--out-implib,libPointers_hell.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
