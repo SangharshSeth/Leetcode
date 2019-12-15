@@ -2,6 +2,7 @@
     "files.associations": {
         "vector": "cpp",
         "resumable": "cpp",
-        "xmemory": "cpp"
+        "xmemory": "cpp",
+        "iostream": "cpp"
     }
 }
