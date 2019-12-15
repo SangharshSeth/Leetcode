@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Maximum_subarray_sum_WindowsizeK.dir/main.cpp.o  -o Maximum_subarray_sum_WindowsizeK.exe -Wl,--out-implib,libMaximum_subarray_sum_WindowsizeK.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
