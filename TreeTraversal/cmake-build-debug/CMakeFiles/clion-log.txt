@@ -1,0 +1,4 @@
+C:\Users\USER\.CLion2019.3\system\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /cygdrive/c/Users/USER/Desktop/Leetcode/Leetcode/TreeTraversal
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/USER/Desktop/Leetcode/Leetcode/TreeTraversal/cmake-build-debug

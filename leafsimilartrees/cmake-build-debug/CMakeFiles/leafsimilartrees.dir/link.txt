@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/leafsimilartrees.dir/main.cpp.o  -o leafsimilartrees.exe -Wl,--out-implib,libleafsimilartrees.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

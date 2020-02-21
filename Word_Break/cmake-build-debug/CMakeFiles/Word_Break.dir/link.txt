@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Word_Break.dir/main.cpp.o  -o Word_Break.exe -Wl,--out-implib,libWord_Break.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

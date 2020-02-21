@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-vector<int> twosum(vector<int> &v, int target)
+vector<int> tu(vector<int> &v, int target)
 {
     target = target - 30;
     int maximum = INT32_MIN;

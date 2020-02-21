@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/maximumDeapthBinaryTree.dir/main.cpp.o  -o maximumDeapthBinaryTree.exe -Wl,--out-implib,libmaximumDeapthBinaryTree.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
